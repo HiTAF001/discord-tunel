@@ -76,8 +76,9 @@ Repoyu indir (**Code → Download ZIP**) ve bir klasöre çıkar. Sonra `ayarlar
 1. Discord kurulu değilse resmi kurulum dosyasını **tünel üzerinden** indirir (discord.com engelli olduğu için), **Discord Inc. imzasını doğrular** ve kurar.
 2. Başlat menüsündeki (ve varsa masaüstündeki) Discord kısayolunu tünelli başlatıcıya (`Discord_Baslat.vbs`) çevirir. Asılları `yedek\` klasörüne alır.
 3. Windows açılışındaki `Discord` kaydını `DiscordTunel` ile değiştirir.
+4. Başlat menüsüne ayrıca **Discord Tunel** kısayolu ekler.
 
-Bundan sonra Discord'u her zamanki gibi Başlat menüsünden aç.
+Bundan sonra Discord'u Başlat menüsünden aç. En sağlamı **Discord Tunel** kısayolu: Discord açılışta ve güncellemede kendi kısayollarını yeniden yazabiliyor (başlatıcı bunları Discord açıkken her dakika tekrar düzeltir), ama bu kısayola dokunmuyor. Görev çubuğuna sabitlemek için onu kullan.
 
 > Klasörü kurduktan sonra taşıma; kısayollar bu klasörü gösteriyor. Taşırsan `Kur.cmd`'yi yeniden çalıştır.
 
