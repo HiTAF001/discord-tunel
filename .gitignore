@@ -1,0 +1,13 @@
+# Kisisel ayarlar ve calisma ciktilari
+ayarlar.json
+son_calisma.log
+yedek/
+
+# Anahtarlar ve indirilenler asla repoya girmesin
+*.pem
+*.key
+*_ed25519
+*_rsa
+id_*
+*.exe
+indirilen/

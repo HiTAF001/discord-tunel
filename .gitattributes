@@ -1,0 +1,8 @@
+# Windows script'leri CRLF kalsin (cmd/vbs/ps1 LF ile sorun cikarabiliyor)
+*.cmd text eol=crlf
+*.vbs text eol=crlf
+*.ps1 text eol=crlf
+*.cs  text eol=crlf
+*.json text eol=crlf
+*.md  text eol=lf
+LICENSE text eol=lf

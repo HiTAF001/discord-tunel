@@ -1,0 +1,7 @@
+{
+  "sunucu": "kullanici@ornek-sunucu-ip",
+  "anahtar": "%USERPROFILE%\\.ssh\\id_ed25519",
+  "sshPort": 22,
+  "socksPort": 1080,
+  "httpPort": 1081
+}
